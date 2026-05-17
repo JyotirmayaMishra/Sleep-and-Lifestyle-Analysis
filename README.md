@@ -23,6 +23,11 @@ This project demonstrates practical skills in:
 - Business Insight Generation
 
 ---
+
+<p align="center">
+  <img src="Images/Sleep.png" width="300">
+</p>
+
 # Business Problem
 
 Poor sleep quality negatively affects:
