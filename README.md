@@ -23,7 +23,6 @@ This project demonstrates practical skills in:
 - Business Insight Generation
 
 ---
-
 # Business Problem
 
 Poor sleep quality negatively affects:
